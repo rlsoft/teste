@@ -9,8 +9,6 @@
     <style type="text/css">
         ul.topnav {
             position: relative;
-            margin: 0px;
-            padding: 0px;
         }
 
             ul.topnav li {
